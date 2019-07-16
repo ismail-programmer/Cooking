@@ -1,0 +1,12 @@
+#content {
+  background-image:
+    linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+  url("../images/intro-bg.jpg");
+  height: 90vh;
+  padding: 100px 50px;
+  color: white;
+  
+}
+h1 {
+  max-width: 70%;
+}
